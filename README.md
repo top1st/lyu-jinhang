@@ -1,9 +1,16 @@
-### Creative Software Engineer
+## Creative Software Engineer
 
-#### About Me
+### About Me
 I am Lyu Jinhang, full stack web developer with 10 years of experience.
 
-#### Skillset
+### Some of my cool projects
+#### Wordpress
+
+#### HTML5 Game development
+<a target="_blank" href="http://lyu-apps.herokuapp.com/games/" ><img src="http://lyu-apps.herokuapp.com/games//res/images/bumper-fury-title.jpg" ></a>
+
+
+### Skillset
 - Wordpress
 - Javascript
 - PHP
