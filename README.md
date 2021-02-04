@@ -7,7 +7,7 @@ I am Lyu Jinhang, full stack web developer with 10 years of experience.
 #### Wordpress
 
 #### HTML5 Game development
-<a target="_blank" href="http://lyu-apps.herokuapp.com/games/" ><img src="http://lyu-apps.herokuapp.com/games//res/images/bumper-fury-title.jpg" ></a>
+<a target="_blank" href="http://lyu-apps.herokuapp.com/games/" ><img width="200" src="http://lyu-apps.herokuapp.com/games//res/images/bumper-fury-title.jpg" ></a>
 
 
 ### Skillset
