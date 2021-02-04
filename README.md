@@ -7,9 +7,11 @@ I am Lyu Jinhang, full stack web developer with 10 years of experience.
 
 ### Some of my cool projects
 
-<div style="display:inline-block"><strong>Wordpress</strong><br><a target="_blank" href="https://portfolio.literally.co.jp/" ><img width="200" src="https://github.com/TruePai/Car-Soccer/blob/master/assets/img/Screenshot_51.jpg?raw=true" ></a></div>
+#### Wordpress
+<a target="_blank" href="https://portfolio.literally.co.jp/" ><img width="200" src="https://github.com/TruePai/Car-Soccer/blob/master/assets/img/Screenshot_51.jpg?raw=true" ></a></div>
 
-<div style="display:inline-block"><strong>HTML5 Game development</strong><br><a target="_blank" href="http://lyu-apps.herokuapp.com/games/" ><img width="200" src="http://lyu-apps.herokuapp.com/games//res/images/bumper-fury-title.jpg" ></a></div>
+#### HTML5 Game development
+<a target="_blank" href="http://lyu-apps.herokuapp.com/games/" ><img width="200" src="http://lyu-apps.herokuapp.com/games//res/images/bumper-fury-title.jpg" ></a></div>
 
 
 ### Skillset
