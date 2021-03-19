@@ -49,6 +49,6 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 
 ## Interested? Contact me.
 
-[truepai415@gmail.com](mailto://truepai415@gmail.com) &nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/jinhang-lyu/) &nbsp;&nbsp;&nbsp; [Skype](https://join.skype.com/invite/rctBCHQUTOfy)
+[truepai415@gmail.com](mailto://truepai415@gmail.com) &nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/jinhang-lyu/) &nbsp;&nbsp;&nbsp; [Skype](https://join.skype.com/invite/rctBCHQUTOfy) &nbsp;&nbsp;&nbsp; [Telegram](https://t.me/truepai)
 
 
