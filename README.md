@@ -18,10 +18,10 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 
 ## Portfolio
 #### Wordpress
-<a target="_blank" style="border:1px solid;" href="https://portfolio.literally.co.jp/" ><img height="150" src="https://github.com/TruePai/TruePai/blob/main/assets/company-site.jpg?raw=true" ></a>  <a target="_blank" style="border:1px solid;" href="https://panenkatv.com/" ><img height="150" src="https://github.com/TruePai/TruePai/blob/main/assets/soccer-platform2.jpg?raw=true" ></a>
+<a target="_blank" href="https://portfolio.literally.co.jp/" ><kbd><img height="150" src="https://github.com/TruePai/TruePai/blob/main/assets/company-site.jpg?raw=true" ></kbd></a>  <a target="_blank" href="https://panenkatv.com/" ><kbd><img height="150" src="https://github.com/TruePai/TruePai/blob/main/assets/soccer-platform2.jpg?raw=true" ></kbd></a>
 
 #### HTML5 Game development
-<a target="_blank" href="http://lyu-apps.herokuapp.com/games/bumper-fifa" ><img width="200" src="https://github.com/TruePai/TruePai/blob/main/assets/car-soccer.jpg?raw=true" ></a>
+<a target="_blank" href="http://lyu-apps.herokuapp.com/games/bumper-fifa" ><kbd><img width="200" src="https://github.com/TruePai/TruePai/blob/main/assets/car-soccer.jpg?raw=true" ></kbd></a>
 
 
 
