@@ -4,7 +4,7 @@
 ## About Me
 I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 
-
+<br>
 
 ## Skillset
 - Wordpress
@@ -18,7 +18,7 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 - Three.js
 - Angular.js
 
-
+<br>
 
 ## Portfolio
 
@@ -40,7 +40,9 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 <a target="_blank" href="https://sandoors.nl/deur-samenstellen/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/canvas-app.jpg?raw=true" ></kbd></a>
 <a target="_blank" href="https://mindmap-dev.studysmartwithchris.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/mindmap.jpg?raw=true" ></kbd></a>
 
-
+<br>
+<br>
+<br>
 
 
 *****
