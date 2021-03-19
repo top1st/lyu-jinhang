@@ -38,10 +38,10 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 <a target="_blank" href="https://sandoors.nl/deur-samenstellen/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/canvas-app.jpg?raw=true" ></kbd></a>
 <a target="_blank" href="https://mindmap-dev.studysmartwithchris.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/mindmap.jpg?raw=true" ></kbd></a>
 
-=============
+======
 
 ## Interested? Contact me.
 
-[truepai415@gmail.com](mailto://truepai415@gmail.com)  [Linkedin](https://www.linkedin.com/in/jinhang-lyu/)  [Skype](https://join.skype.com/invite/rctBCHQUTOfy)
+[truepai415@gmail.com](mailto://truepai415@gmail.com) &nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/jinhang-lyu/) &nbsp;&nbsp;&nbsp; [Skype](https://join.skype.com/invite/rctBCHQUTOfy)
 
 
