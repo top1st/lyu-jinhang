@@ -22,7 +22,7 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 
 ## Portfolio
 
-### Wordpress
+### Wordpress/Ecommerce
 <a target="_blank" href="https://portfolio.literally.co.jp/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/company-site.jpg?raw=true" ></kbd></a>
 <a target="_blank" href="https://panenkatv.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/soccer-platform2.jpg?raw=true" ></kbd></a>
 <a target="_blank" href="https://www.celtic-weddingrings.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/rings-site-2.jpg?raw=true" ></kbd></a>
