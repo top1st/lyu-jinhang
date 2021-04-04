@@ -13,6 +13,7 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 - Cryptocurrency
 - Smart contracts
 - Web3
+- PancakeSwap fork
 - PHP
 - HTML5/CSS3/jQuery/Bootstrap/SCSS
 - Three.js
