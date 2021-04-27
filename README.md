@@ -7,14 +7,14 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 <br>
 
 ## Skillset
-- Wordpress
-- React.js
-- Node.js
 - Cryptocurrency
 - Smart contracts
 - Web3
+- React.js
+- Node.js
 - PancakeSwap fork
 - PHP
+- Wordpress
 - HTML5/CSS3/jQuery/Bootstrap/SCSS
 - Three.js
 - Angular.js
@@ -23,10 +23,8 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 
 ## Portfolio
 
-### Wordpress/Woocommerce
-<a target="_blank" href="https://portfolio.literally.co.jp/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/company-site.jpg?raw=true" ></kbd></a>
-<a target="_blank" href="https://panenkatv.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/soccer-platform2.jpg?raw=true" ></kbd></a>
-<a target="_blank" href="https://www.celtic-weddingrings.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/rings-site-2.jpg?raw=true" ></kbd></a>
+### DEX
+<a target="_blank" href="https://app.spiritswap.finance" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/spiritswap.png?raw=true" ></kbd></a>
 
 ### HTML5 Game development
 <a target="_blank" href="http://lyu-apps.herokuapp.com/games/bumper-fifa" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/car-soccer.jpg?raw=true" ></kbd></a>
@@ -40,6 +38,11 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 <a target="_blank" href="http://3.12.76.187/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/tile-preview.jpg?raw=true" ></kbd></a>
 <a target="_blank" href="https://sandoors.nl/deur-samenstellen/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/canvas-app.jpg?raw=true" ></kbd></a>
 <a target="_blank" href="https://mindmap-dev.studysmartwithchris.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/mindmap.jpg?raw=true" ></kbd></a>
+
+### Wordpress/Woocommerce
+<a target="_blank" href="https://portfolio.literally.co.jp/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/company-site.jpg?raw=true" ></kbd></a>
+<a target="_blank" href="https://panenkatv.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/soccer-platform2.jpg?raw=true" ></kbd></a>
+<a target="_blank" href="https://www.celtic-weddingrings.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/rings-site-2.jpg?raw=true" ></kbd></a>
 
 <br>
 <br>
