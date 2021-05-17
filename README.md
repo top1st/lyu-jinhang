@@ -12,7 +12,7 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 - Web3
 - React.js
 - Node.js
-- PancakeSwap fork
+- Uniswap / PancakeSwap
 - PHP
 - Wordpress
 - HTML5/CSS3/jQuery/Bootstrap/SCSS
@@ -25,6 +25,7 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 
 ### DEX
 <a target="_blank" href="https://app.spiritswap.finance" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/spiritswap.png?raw=true" ></kbd></a>
+<a target="_blank" href="https://shikbank.com" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/shikbank.png?raw=true" ></kbd></a>
 
 ### HTML5 Game development
 <a target="_blank" href="http://lyu-apps.herokuapp.com/games/bumper-fifa" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/car-soccer.jpg?raw=true" ></kbd></a>
