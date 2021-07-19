@@ -39,10 +39,6 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 <a target="_blank" href="https://sandoors.nl/deur-samenstellen/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/canvas-app.jpg?raw=true" ></kbd></a>
 <a target="_blank" href="https://mindmap-dev.studysmartwithchris.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/mindmap.jpg?raw=true" ></kbd></a>
 
-### Wordpress/Woocommerce
-<a target="_blank" href="https://portfolio.literally.co.jp/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/company-site.jpg?raw=true" ></kbd></a>
-<a target="_blank" href="https://www.celtic-weddingrings.com/" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/rings-site-2.jpg?raw=true" ></kbd></a>
-
 <br>
 <br>
 <br>
