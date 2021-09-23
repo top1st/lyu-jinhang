@@ -9,10 +9,11 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience.
 ## Skillset
 - Cryptocurrency
 - Smart contracts
+- DeFi
+- NFT marketplace
 - Web3
 - React.js
 - Node.js
-- Uniswap / PancakeSwap
 - PHP
 - Wordpress
 - HTML5/CSS3/jQuery/Bootstrap/SCSS
