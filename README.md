@@ -2,7 +2,7 @@
 
 
 ## About Me
-I am Lyu Jinhang, full stack software engineer with 10 years of experience.
+I am Lyu Jinhang, full stack software engineer with 10 years of experience. Recently I have been doing professional work in creating dApps like DeFi and NFT martketplace using Solidity, Web3, React.js etc.
 
 <br>
 
