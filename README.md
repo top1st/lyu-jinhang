@@ -24,7 +24,7 @@ I am Lyu Jinhang, full stack software engineer with 10 years of experience. Rece
 
 ## Portfolio
 
-### DEX
+### DApp development
 <a target="_blank" href="https://app.spiritswap.finance" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/spiritswap.png?raw=true" ></kbd></a>
 <a target="_blank" href="https://shikbank.com" ><kbd><img height="120" src="https://github.com/TruePai/TruePai/blob/main/assets/shikbank.png?raw=true" ></kbd></a>
 
